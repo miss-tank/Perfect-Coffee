@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MissTank/Desktop/androidprojects/coffee/PerfectCoffee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36207a0bd44a187263f027b83f630f8f6d02d6c0">
+        <dex dex="/Users/MissTank/Desktop/androidprojects/coffee/PerfectCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b3adaa8b6200d31d2aba3daa7a5be826e1a7e7fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MissTank/Desktop/androidprojects/coffee/PerfectCoffee/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/MissTank/Desktop/androidprojects/coffee/PerfectCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_31e4e97aca984e1e939b973458fe197b5c5bd1a7/classes.dex" />
+    </item>
+
+</items>

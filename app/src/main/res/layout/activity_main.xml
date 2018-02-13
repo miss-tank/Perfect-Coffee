@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/coffeebackground"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="480dp"
+        android:id="@+id/button1"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Place your Order"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#969393"
+        android:background="#fa161212"
+        android:textSize="30sp"
+        android:onClick="show"/>
+
+</RelativeLayout>
